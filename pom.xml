@@ -87,12 +87,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.97.46:8081/repository/harshi-release/</url>
+	      <url>http://54.234.4.91:8081/repository/harshi/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.97.46:8081/repository/harshi-snapshot/</url>
+	      <url>http://54.234.4.91:8081/repository/harshi/</url>
 	    </snapshotRepository>
        </distributionManagement>    
         <build>
