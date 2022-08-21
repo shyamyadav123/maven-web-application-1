@@ -87,12 +87,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://65.2.143.164:8083/repository/PUSHPA/</url>
+	      <url>http://65.2.146.255:8083/repository/freestylejob/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.143.164:8083/repository/PUSHPA/</url>
+	      <url>http://65.2.146.255:8083/repository/freestylejob/</url>
 	    </snapshotRepository>
        </distributionManagement>    
         <build>
